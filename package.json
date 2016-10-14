@@ -1,0 +1,20 @@
+{
+  "name": "microbeam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:distopik/microbeam.git",
+    "type": "git"
+  },
+  "author": "Bojan Šernek <bojan@distopiksound.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hyperid": "^1.0.2",
+    "jsonic": "^0.2.2",
+    "lodash": "^4.16.4",
+    "msgpack": "^1.0.2",
+    "node-etcd": "^5.0.3",
+    "patrun": "^0.5.1",
+    "zmq": "^2.15.3"
+  }
+}
